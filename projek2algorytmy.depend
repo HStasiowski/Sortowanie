@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1610643095 source:c:\users\hubert koks\desktop\projek2algorytmy\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
